@@ -1,0 +1,111 @@
+<!--Copyright by Planitar-->
+<svg class="floor" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="78.4 961.8 9939.7 16949.9" id="floor3" version="1.1">
+<style type="text/css">.wallitem{shape-rendering:geometricPrecision; stroke:none} .room{shape-rendering:geometricPrecision; stroke:none; fill:#E0E0E0; stroke-width:30} .arrows{fill:black; stroke:none} .door-rect{shape-rendering:geometricPrecision; fill:#dfdfdf} .window-rect{shape-rendering:geometricPrecision; fill:#4fb0e2} .wall{shape-rendering:geometricPrecision; fill:black} .ceiling{display:none} .ceiling-line{fill:none; stroke:red; stroke-width:15} .ceiling-beam{shape-rendering:geometricPrecision; fill:red} .halfwall-outline{shape-rendering:geometricPrecision; stroke:black; stroke-width:7; fill:none} .halfwall-fill{shape-rendering:geometricPrecision; stroke:none; fill:#aaa} .dashline{stroke:black; stroke-width:18; stroke-dasharray: 40} .excluded{fill:none} .line{fill:none; stroke:black; stroke-width:15} .bathroom{fill:#C0E6FF} .kitchen{fill:#E6F2EC} .living{fill:#FFF9E3} .office{fill:#FFF1CC} .dining{fill:#E8DFD1} .bedroom{fill:#FFF1CC} .storage{fill:#E8DFD1} .laundry{fill:#E8DFD1} .utility{fill:#E8DFD1}  #rooms.ansi .unfinished{fill:none;} #rooms.ansi .room.unfinished{fill:none;}   #rooms.ansi .void-space:not(.unfinished){fill:black;} #rooms.ansi .void-space .room:not(.unfinished){fill:black;}  #rooms.ansi .room.void-space:not(.unfinished){fill:black;} #rooms.ansi .room .void-space .room:not(.unfinished){fill:black;}  .excluded{fill:none;} .room.excluded{fill:none;}   .void-space:not(.excluded){fill:black;} .void-space .room:not(.excluded){fill:black;}  .room.void-space:not(.excluded){fill:black;} .room .void-space .room:not(.excluded){fill:black;} .arrows{visibility: hidden}#room35 .arrows{visibility: visible}#room37 .arrows{visibility: visible}#labels g rect{fill: none}</style>
+<g id="rooms" class="ansi">
+<g class="room unfinished unfinished" id="room37">
+<polygon points="4087.8,11452.3 2630.6,11452.3 2630.6,11212.3 2630.6,11212.3 1700.0,11212.3 1700.0,11212.3 1700.0,11452.3 281.4,11452.2 281.4,17708.7 4087.8,17708.7 4087.8,11452.3 "/>
+<g class="arrows">
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(281.4 14550.3) rotate(-90.00)"/>
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(4087.8 14550.3) rotate(-270.00)"/>
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(2184.4 11212.3) rotate(0.00)"/>
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(2184.4 17708.7) rotate(-180.00)"/>
+</g>
+</g>
+<g class="room stairs unfinished" id="room36">
+<polygon points="7982.2,5256.1 6432.9,5256.1 6432.9,6133.4 7982.2,6133.4 7982.2,5256.1 "/>
+<g class="arrows">
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(6432.9 5694.8) rotate(-90.00)"/>
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(7982.2 5694.8) rotate(-270.00)"/>
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(7207.5 5256.1) rotate(0.00)"/>
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(7207.5 6133.4) rotate(-180.00)"/>
+</g>
+</g>
+<g class="room unfinished unfinished" id="room35">
+<polygon points="2630.6,11212.3 4189.3,11212.3 4189.3,11210.8 9815.2,11210.9 9815.1,5066.3 7982.2,5066.1 7982.2,5256.1 7982.2,6133.4 7982.2,6303.4 6372.9,6303.4 5841.0,6303.4 5841.0,6183.4 6312.9,6183.4 6312.9,5256.1 5578.9,5256.1 5578.9,5066.1 6372.9,5066.1 7982.2,5066.1 9815.1,5066.3 9815.1,1164.8 281.4,1164.8 281.4,11212.2 1700.0,11212.3 1700.0,11212.3 2630.6,11212.3 2630.6,11212.3 "/>
+<g class="arrows">
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(281.4 8137.7) rotate(-90.00)"/>
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(9815.2 8137.7) rotate(-270.00)"/>
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(3362.9 1164.8) rotate(0.00)"/>
+<polygon points="0.0, 0.0 -50.0, 176.0 0.0, 139.0 50.0, 176.0 " transform="translate(3362.9 11212.3) rotate(-180.00)"/>
+</g>
+</g>
+</g>
+<g id="cosmeticlines">
+<path class="line" d="M6641.1 5719.8 L6507.0 5719.8 "/>
+<path class="line" d="M6507.0 5719.8 L6607.0 5619.8 "/>
+<path class="line" d="M6507.0 5719.8 L6607.0 5819.8 "/>
+<path class="line" d="M6909.3 5719.8 L6641.1 5719.8 "/>
+<path class="line" d="M6641.1 5196.1 L6641.1 6243.4 "/>
+<path class="line" d="M7177.5 5719.8 L6909.3 5719.8 "/>
+<path class="line" d="M6909.3 5196.1 L6909.3 6243.4 "/>
+<path class="line" d="M7445.7 5719.8 L7177.5 5719.8 "/>
+<path class="line" d="M7177.5 5196.1 L7177.5 6243.4 "/>
+<path class="line" d="M7713.9 5719.8 L7445.7 5719.8 "/>
+<path class="line" d="M7445.7 5196.1 L7445.7 6243.4 "/>
+<path class="line" d="M7848.0 5719.8 L7713.9 5719.8 "/>
+<path class="line" d="M7713.9 5196.1 L7713.9 6243.4 "/>
+<path class="line" d="M6372.9 5196.1 L7982.2 5196.1 "/>
+<path class="line" d="M6372.9 6243.4 L7982.2 6243.4 "/>
+<path class="line" d="M6372.9 5196.1 L6372.9 6243.4 "/>
+<path class="line" d="M7982.2 5196.1 L7982.2 6243.4 "/>
+</g>
+<g class="premium" id="objectlines"/>
+<g id="walls">
+<path class="wall" d="M1700.0 11452.3 281.4 11452.2 179.9 11272.2 281.4 11212.2 1700.0 11212.3 1700.0 11272.3 ZM4087.8 11452.3 2630.6 11452.3 2630.6 11272.3 2630.6 11212.3 4189.3 11212.3 4189.3 11272.3 ZM9815.1 5066.3 9815.1 1164.8 9916.6 1063.3 10018.1 961.8 10018.1 5066.3 9916.6 5066.3 ZM281.4 11452.2 281.4 17708.7 179.9 17810.2 78.4 17911.7 78.4 11272.2 179.9 11272.2 ZM9815.2 11210.9 9815.1 5066.3 9916.6 5066.3 10018.1 5066.3 10018.2 11413.9 9916.7 11272.4 ZM10018.2 11413.9 4290.8 11413.8 4189.3 11272.3 4189.3 11210.8 9815.2 11210.9 9916.7 11272.4 ZM4087.8 17708.7 4087.8 11452.3 4189.3 11272.3 4290.8 11413.8 4290.8 17911.7 4189.3 17810.2 ZM6312.9 5256.1 5578.9 5256.1 5578.9 5196.1 5578.9 5066.1 6372.9 5066.1 6372.9 5196.1 ZM7982.2 5256.1 6432.9 5256.1 6372.9 5196.1 6372.9 5066.1 7982.2 5066.1 7982.2 5196.1 ZM7982.2 6303.4 6372.9 6303.4 6372.9 6243.4 6432.9 6133.4 7982.2 6133.4 7982.2 6243.4 ZM6372.9 6303.4 5841.0 6303.4 5841.0 6243.4 5841.0 6183.4 6312.9 6183.4 6372.9 6243.4 ZM6432.9 5256.1 6432.9 6133.4 6372.9 6243.4 6312.9 6183.4 6312.9 5256.1 6372.9 5196.1 ZM9815.1 1164.8 281.4 1164.8 179.9 1063.3 78.4 961.8 10018.1 961.8 9916.6 1063.3 ZM281.4 17708.7 4087.8 17708.7 4189.3 17810.2 4290.8 17911.7 78.4 17911.7 179.9 17810.2 ZM281.4 1164.8 281.4 11212.2 179.9 11272.2 78.4 11272.2 78.4 961.8 179.9 1063.3 Z"/>
+</g>
+<symbol preserveAspectRatio="none" viewBox="0 0 118 25" id="file-windows-1-Standard.svg">
+<path stroke="#000" fill="none" d="M0 9.1h118 M0 16.9h118"/>
+</symbol>
+<symbol preserveAspectRatio="none" viewBox="0 0 179 15" id="file-doors-5-Sliding.svg">
+<g stroke="#000" fill="none">
+<path stroke-width="2" d="M0 6.2h95m84 2.6H84"/>
+</g>
+</symbol>
+<symbol preserveAspectRatio="none" viewBox="0 0 200 200" id="file-objects-STRUCTURAL-Column_C.svg">
+<circle r="100" cy="100" cx="100"/>
+</symbol>
+<g id="structural-objects">
+<g transform="translate(8445.4,  1063.3) rotate(-180.00) scale(1, 1)" class="window" id="window28">
+<rect class="window-rect" height="203" x="-418.8438541016512" width="837.6877082033025" y="-101.5"/>
+<use height="203" width="837.6877082033025" x="-418.8438541016512" y="-101.5" xlink:href="#file-windows-1-Standard.svg"/>
+</g>
+<g transform="translate(1783.0,  1063.3) rotate(-180.00) scale(1, 1)" class="window" id="window29">
+<rect class="window-rect" height="203" x="-347.33022016884" width="694.66044033768" y="-101.5"/>
+<use height="203" width="694.66044033768" x="-347.33022016884" y="-101.5" xlink:href="#file-windows-1-Standard.svg"/>
+</g>
+<g transform="translate(4950.1,  1063.3) rotate(-180.00) scale(-1, -1)" class="door" id="door36">
+<rect class="door-rect" height="203" x="-889.0612361716642" width="1778.122472343328" y="-101.5"/>
+<use height="148.8778039757659" width="1778.122472343328" x="-889.0612361716642" y="-74.43890198788296" xlink:href="#file-doors-5-Sliding.svg"/>
+</g>
+<g transform="translate(2088.5,  17810.2) rotate(0.00) scale(1, 1)" class="window" id="window31">
+<rect class="window-rect" height="203" x="-552.131259254943" width="1104.262518509886" y="-101.5"/>
+<use height="203" width="1104.262518509886" x="-552.131259254943" y="-101.5" xlink:href="#file-windows-1-Standard.svg"/>
+</g>
+<g transform="translate(179.9,  2556.9) rotate(-270.00) scale(1, 1)" class="window" id="window30">
+<rect class="window-rect" height="203" x="-381.819041081957" width="763.6380821639141" y="-101.5"/>
+<use height="203" width="763.6380821639141" x="-381.819041081957" y="-101.5" xlink:href="#file-windows-1-Standard.svg"/>
+</g>
+<g transform="translate(179.9,  9624.4) rotate(-270.00) scale(1, 1)" class="window" id="window32">
+<rect class="window-rect" height="203" x="-358.2524099615219" width="716.5048199230439" y="-101.5"/>
+<use height="203" width="716.5048199230439" x="-358.2524099615219" y="-101.5" xlink:href="#file-windows-1-Standard.svg"/>
+</g>
+<g transform="translate(6558.3,  7527.2) rotate(0.00) scale(1, 1)" class="object" id="object21">
+<use height="100" width="100" x="-50" y="-50" xlink:href="#file-objects-STRUCTURAL-Column_C.svg"/>
+</g>
+<g transform="translate(3482.9,  7490.8) rotate(0.00) scale(1, 1)" class="object" id="object20">
+<use height="100" width="100" x="-50" y="-50" xlink:href="#file-objects-STRUCTURAL-Column_C.svg"/>
+</g>
+<g transform="translate(3521.1,  5175.5) rotate(0.00) scale(1, 1)" class="object" id="object19">
+<use height="100" width="100" x="-50" y="-50" xlink:href="#file-objects-STRUCTURAL-Column_C.svg"/>
+</g>
+</g>
+<g class="premium" id="nonstructural-objects"/>
+<g class="ceiling" id="ceilingLines"/>
+<g class="ceiling" id="ceiling-objects"/>
+<defs>
+<mask id="floor3__wall-holes">
+<rect fill="white" height="16949.9" x="78.4" width="9939.7" y="961.8"/>
+<path fill="black" d="M8854.2 1174.8 8036.5 1174.8 8036.5 951.8 8854.2 951.8 8854.2 1174.8 ZM2120.3 1174.8 1445.7 1174.8 1445.7 951.8 2120.3 951.8 2120.3 1174.8 ZM5829.2 1174.8 4071.1 1174.8 4071.1 951.8 5829.2 951.8 5829.2 1174.8 ZM1546.4 17698.7 2630.7 17698.7 2630.7 17921.7 1546.4 17921.7 1546.4 17698.7 ZM291.4 2185.1 291.4 2928.7 68.4 2928.7 68.4 2185.1 291.4 2185.1 ZM291.4 9276.2 291.4 9972.7 68.4 9972.7 68.4 9276.2 291.4 9276.2 Z"/>
+</mask>
+</defs>
+<g id="labels"><g><rect x="1076.397336" y="8879.756808" width="7850.000000" height="1213.000000"  transform="rotate(-0.000000, 5001.397336, 9486.256808)" /><text text-anchor="middle" font-size="245.058795" font-family="Arial" transform="translate(5001.397336 9298.786830) rotate(-0.000000)">UNFINISHED</text><text text-anchor="middle" font-size="245.058795" font-family="Arial" transform="translate(5001.397336 9564.675622) rotate(-0.000000)">31&#39;3&#34; x 33&#39;</text><text text-anchor="middle" font-size="245.058795" font-family="Arial" transform="translate(5001.397336 9830.564415) rotate(-0.000000)">1007 sq ft</text></g><g><rect x="483.945132" y="12732.826556" width="3401.000000" height="3635.000000"  transform="rotate(-0.000000, 2184.445132, 14550.326556)" /><text text-anchor="middle" font-size="245.058795" font-family="Arial" transform="translate(2184.445132 14362.856578) rotate(-0.000000)">UNFINISHED</text><text text-anchor="middle" font-size="245.058795" font-family="Arial" transform="translate(2184.445132 14628.745370) rotate(-0.000000)">12&#39;6&#34; x 21&#39;4&#34;</text><text text-anchor="middle" font-size="245.058795" font-family="Arial" transform="translate(2184.445132 14894.634163) rotate(-0.000000)">259 sq ft</text></g><g><text text-anchor="middle" alignment-baseline="middle" font-size="245.058795" font-family="Arial" transform="translate(8304.912754 5960.683064) rotate(-0.000000)">UP</text></g><g><text text-anchor="middle" alignment-baseline="middle" font-size="245.058795" font-family="Arial" transform="translate(4721.424996 8767.154107) rotate(-0.000000)">UTILITY</text></g></g></svg>
